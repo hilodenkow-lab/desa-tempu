@@ -1,0 +1,6 @@
+{
+  "name": "Bina Desa Tempu",
+  "description": "Aplikasi pembinaan administratif 26 desa Kecamatan Tempunak dengan Google Sheets & Calendar",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
